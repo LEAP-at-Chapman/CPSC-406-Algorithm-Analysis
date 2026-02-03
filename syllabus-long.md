@@ -38,7 +38,7 @@ Assessment will be divided into a total of 200 points:
 
 ## Attendance and participation
 
-It is expected that you are present and actively participate in each class. Each attendance is worth 1 participation point. In line with university-wide policy, attending at least **80% of class (18 classes)** is mandatory for passing the class. Participation outside of class, in particular during office hours, is actively encouraged.
+It is expected that you are present and actively participate in each class. Each attendance is worth 1 participation point. In line with university-wide policy, attending at least **80% of class (22 classes)** is mandatory for passing the class. Participation outside of class, in particular during office hours, is actively encouraged.
 
 ## Course Grade Breakdown
 
