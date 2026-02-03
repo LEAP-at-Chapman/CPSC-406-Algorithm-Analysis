@@ -21,7 +21,7 @@ Models of computation, algorithm complexity, probabilistic algorithms
 
 ## Resources
 * [J. E. Hopcroft, R. Motwani, J. D. Ullman: Introduction to Automata Theory, Languages, and Computation (ITALC)](https://archive.org/details/hopcroft-motwani-ullman-introduction-to-automata-theory-languages-and-computations-3rd-edition/)
-* [T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein](https://github.com/calvint/AlgorithmsOneProblems/blob/master/Algorithms/Thomas%20H.%20Cormen,%20Charles%20E.%20Leiserson,%20Ronald%20L.%20Rivest,%20Clifford%20Stein%20Introduction%20to%20Algorithms,%20Third%20Edition%20%202009.pdf)
+* [T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein: Introduction to Algorithms](https://github.com/calvint/AlgorithmsOneProblems/blob/master/Algorithms/Thomas%20H.%20Cormen,%20Charles%20E.%20Leiserson,%20Ronald%20L.%20Rivest,%20Clifford%20Stein%20Introduction%20to%20Algorithms,%20Third%20Edition%20%202009.pdf)
 * [N. Deo: Graph Theory with Applications to Engineering and Computer Science (GTAECS)](https://archive.org/details/GraphTheoryWithApplicationsToEngineeringAndComputerScience/)
 
 
