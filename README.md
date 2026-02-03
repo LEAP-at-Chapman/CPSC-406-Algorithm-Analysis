@@ -27,7 +27,7 @@ Models of computation, algorithm complexity, probabilistic algorithms
 
 
 ## Schedule
-The following outline  
+The outline is as follows (subject to change):
 
 | Week  | Topic                                      |
 |-------|--------------------------------------------|
