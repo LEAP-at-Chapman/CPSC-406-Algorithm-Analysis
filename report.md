@@ -45,7 +45,7 @@ To **test your setup** make sure of the following:
 - For example, if a homework requires programming, make a subdirectory `src` where you store the relevant program files; if you want to include images in your report, make a subdirectory `img`; etc.
 - Always use the same repository for all submissions of the course (get in touch if you think an exception is appropriate).
 - Do not name different versions of your report, instead rely on the version control of git.
-- Give the instructor access to your private GitHub repo by inviting your instructor (Alexander: [alexhkurz](https://github.com/alexhkurz), Jonathan: [jonweinb](https://github.com/jonweinb)).
+- Give the instructor access to your private GitHub repo by sending an invite to Jonathan Weinberger: [jonweinb](https://github.com/jonweinb)
 - Submission info below.
 
 ## Point Distribution
