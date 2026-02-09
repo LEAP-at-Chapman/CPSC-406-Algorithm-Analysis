@@ -1,5 +1,58 @@
 local
 
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+
+# Bibliography
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Index / glossary
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+
+# Build artifacts
+*.dvi
+*.xdv
+*.ps
+
+# Latexmk
+.latexmk
+.latexmkrc
+
+# Temporary/editor files
+*~
+*.swp
+*.swo
+*.bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
 # Build outputs
 _build/
 _build/**
