@@ -24,7 +24,7 @@ If you have problems integrating Latex and Github into VSCode, you can run Latex
 
 To **test your setup** make sure of the following:
 
-- You have a local folder, say cpsc354 (name doesn't matter for us).
+- You have a local folder, say cpsc406 (name doesn't matter for us).
 - It has a subfolder `Report` (name matters).
 - You copy [`report.tex`](report/report.tex) to your subfolder `Report`.
 - You can compile `report.tex` locally and generate `report.pdf`, either via the green play button in VSCode or by typing `pdflatex report.tex` in a terminal.
