@@ -39,9 +39,9 @@ The outline is as follows (subject to change):
 ## Week by week
 
 * L1.1: Introduction and puzzle.
-* L1.2: Deterministic finite automata (DFAs): [Motivation](https://hackmd.io/dF2SKHuSThWcmtb55siHNA), [definition](https://hackmd.io/B12ryxVpRZWjGOlXU93-Yw?both)
+* L1.2: Deterministic finite automata (DFAs): [Motivation](https://hackmd.io/dF2SKHuSThWcmtb55siHNA), [definition](https://hackmd.io/B12ryxVpRZWjGOlXU93-Yw)
 * L2.1: [DFA processing and design](https://hackmd.io/8bklG4CjRdic3jRSBzWjQQ?view)
-* L2.2: [Warmup: Constructions on DFAs](https://hackmd.io/T67z5ztqTkussTfC8g5DNg?view), [operations on automata](https://hackmd.io/08qs4k0hT8-HeojeDRHyqA?both), [Extended transition functions](https://hackmd.io/7PQmGrkfTquROvEdM28FvA?both), [NFAs](https://hackmd.io/dDaFPm6hRUCpxr9OTEVJUw?view)
+* L2.2: [Warmup: Constructions on DFAs](https://hackmd.io/T67z5ztqTkussTfC8g5DNg?view), [operations on automata](https://hackmd.io/08qs4k0hT8-HeojeDRHyqA?view), [Extended transition functions](https://hackmd.io/7PQmGrkfTquROvEdM28FvA?view), [NFAs](https://hackmd.io/dDaFPm6hRUCpxr9OTEVJUw?view)
 
 
 
