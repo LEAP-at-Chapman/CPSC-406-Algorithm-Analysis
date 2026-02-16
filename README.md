@@ -7,7 +7,7 @@ Models of computation, algorithm complexity, probabilistic algorithms
 ## General Information
 - Class: CPSC 406 Algorithm Analysis 
 - Instructor: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), [jweinberger@chapman.edu](mailto:jweinberger@chapman.edu)
-- Lectures: TuTh 1:00 PM -- 2:15 PM  KC 153, 2:30 PM -- 3:45 PM BH 105
+- Lectures: TuTh 1:00 PM -- 2:15 PM  KC 153, 4:00 PM -- 5:15 PM BH 105
 - Office Hours: Tu 2:20 PM -- 3:50 Swenson N305, Th 2:20 PM -- 3:50 Swenson N205
 
 
