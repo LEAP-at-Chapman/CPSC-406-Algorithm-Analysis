@@ -38,6 +38,8 @@ The outline is as follows (subject to change):
 
 ## Week by week
 
+[Tablet notes](406-s26.pdf)
+
 * L1.1: Introduction and puzzle.
 * L1.2: Deterministic finite automata (DFAs): [Motivation](https://hackmd.io/dF2SKHuSThWcmtb55siHNA), [definition](https://hackmd.io/B12ryxVpRZWjGOlXU93-Yw)
 * L2.1: [DFA processing and design](https://hackmd.io/8bklG4CjRdic3jRSBzWjQQ?view)
