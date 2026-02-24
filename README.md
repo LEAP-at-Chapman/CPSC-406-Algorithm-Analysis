@@ -46,6 +46,7 @@ The outline is as follows (subject to change):
 * L2.2: [Formal languages](https://hackmd.io/B12ryxVpRZWjGOlXU93-Yw)
 * L3.1: [Warmup: Constructions on DFAs](https://hackmd.io/T67z5ztqTkussTfC8g5DNg?view), [operations on automata](https://hackmd.io/08qs4k0hT8-HeojeDRHyqA?view)
 * L3.2: [Extended transition functions](https://hackmd.io/7PQmGrkfTquROvEdM28FvA?view), [NFAs](https://hackmd.io/dDaFPm6hRUCpxr9OTEVJUw?view), [Determinization](https://hackmd.io/4rNUYyG4QEWsrtl3yx_t1g?view)
+* L4.1: [Determinization](https://hackmd.io/4rNUYyG4QEWsrtl3yx_t1g?view), [Regular expressions](https://hackmd.io/6kHUD_8cS22gzrvfmUiFDA?view)
 
 
 
