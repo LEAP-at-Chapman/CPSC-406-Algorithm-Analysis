@@ -48,6 +48,7 @@ The outline is as follows (subject to change):
 * L3.2: [Extended transition functions](https://hackmd.io/7PQmGrkfTquROvEdM28FvA?view), [NFAs](https://hackmd.io/dDaFPm6hRUCpxr9OTEVJUw?view), [Determinization](https://hackmd.io/4rNUYyG4QEWsrtl3yx_t1g?view)
 * L4.1: [Determinization](https://hackmd.io/4rNUYyG4QEWsrtl3yx_t1g?view)
 * L4.2: [Regular expressions](https://hackmd.io/6kHUD_8cS22gzrvfmUiFDA?view)
+* L5.1: [Kleene's algorithm](https://hackmd.io/@jweinberger/Bk5fTUCOZl), [Minimization](https://hackmd.io/MIZvIfFqSf6V1U6A5wsLww)
 
 
 
