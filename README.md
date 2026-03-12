@@ -50,6 +50,8 @@ The outline is as follows (subject to change):
 * L4.2: [Regular expressions](https://hackmd.io/6kHUD_8cS22gzrvfmUiFDA?view)
 * L5.1: [Kleene's algorithm](https://hackmd.io/@jweinberger/Bk5fTUCOZl), [Minimization](https://hackmd.io/MIZvIfFqSf6V1U6A5wsLww)
 * L6.1: [Pumping lemma](https://hackmd.io/_nZMlo6eT9m2pm9gesUjDA)
+* L6.2: [Computability, Turing machines, (un)decidability](https://hackmd.io/Ao1dY3Z7T4qrhs4b2xpmpw?view)
+
 
 
 
