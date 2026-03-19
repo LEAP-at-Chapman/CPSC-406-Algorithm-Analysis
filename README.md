@@ -52,7 +52,7 @@ The outline is as follows (subject to change):
 * L6.1: [Pumping lemma](https://hackmd.io/_nZMlo6eT9m2pm9gesUjDA)
 * L6.2: [Computability, Turing machines, (un)decidability](https://hackmd.io/Ao1dY3Z7T4qrhs4b2xpmpw?view)
 * L7.1: [Turing machines](https://hackmd.io/Ao1dY3Z7T4qrhs4b2xpmpw?view), [Problems on decidability](https://hackmd.io/9mIR3dtaQ1aQaxjj0X8gvw)
-
+* L7.2: [Halting problem](https://hackmd.io/@alexhkurz/HyHUQYXuY?utm_source=preview-mode&utm_medium=rec), [Visual proof](https://hackmd.io/@alexhkurz/B1vr_kaAo)
 
 
 
