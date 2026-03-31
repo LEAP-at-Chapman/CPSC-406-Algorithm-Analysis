@@ -54,6 +54,7 @@ The outline is as follows (subject to change):
 * L6.2: [Computability, Turing machines, (un)decidability](https://hackmd.io/Ao1dY3Z7T4qrhs4b2xpmpw?view)
 * L7.1: [Turing machines](https://hackmd.io/Ao1dY3Z7T4qrhs4b2xpmpw?view), [Problems on decidability](https://hackmd.io/9mIR3dtaQ1aQaxjj0X8gvw)
 * L7.2: [Halting problem](https://hackmd.io/@alexhkurz/HyHUQYXuY?utm_source=preview-mode&utm_medium=rec), [Visual proof](https://hackmd.io/@alexhkurz/B1vr_kaAo)
+
 **Part 2: Algorithm complexity**
 * L8.1: [Landau notation aka "Big O"](https://hackmd.io/@jweinberger/S1VIkpR0kg)
 * L8.2: **Midterm**
