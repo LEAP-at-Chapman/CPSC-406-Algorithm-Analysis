@@ -58,6 +58,7 @@ The outline is as follows (subject to change):
 **Part 2: Algorithm complexity**
 * L8.1: [Landau notation aka "Big O"](https://hackmd.io/@jweinberger/S1VIkpR0kg)
 * L8.2: **Midterm**
+* L9.1: [Problems on logic and SAT](https://hackmd.io/hYC1W48OTm-oyndzt5RQEg?view)
 
 
 
