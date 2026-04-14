@@ -52,7 +52,7 @@ Important for grading:
 
 ## What you implement
 
-In `pa1.py`, implement:
+In [`pa1.py`](pa1.py), implement:
 
 ```python
 def solve_horn(formula: dict) -> dict:
