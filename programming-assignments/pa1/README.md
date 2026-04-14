@@ -110,7 +110,7 @@ Grading breakdown:
 - **1 points**: output contract and CLI usage
   - correctly prints `satisfiable: true|false`
   - prints `true_vars` only when satisfiable
-- **1 point**: maintaining directory and file structure
+- **1 point**: maintaining directory and file structure. In particular, your file `pa1.py` must be in a subdirectory `pa1`.
 - **1 point**: code quality (readable implementation, clear variable naming, no hard-coding)
 
 You are encouraged to add your own test cases. I maintain the right to use additional test cases for grading.
