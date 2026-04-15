@@ -32,8 +32,8 @@ Assessment will be divided into a total of 200 points:
 | Report incl. HW         | 50     | 3 × 13 + 11          |
 | Programming Assignments | 45     | 3 × 15               |
 | Quizzes                 | 12     | 3 × 4                |
-| Midterm                 | 30     | 6 × 5                |
-| Final                   | 35     | 7 × 5                |
+| Midterm                 | 25     | 5 × 5                |
+| Final                   | 40     | 8 × 5                |
 | **TOTAL**               | **200**|                      |
 
 ## Attendance and participation
