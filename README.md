@@ -62,6 +62,7 @@ The outline is as follows (subject to change):
 * L9.2: [Resolution](Resolution.pdf)
 * L10.1: [Programming Assignment 1 (Horn resolution)](programming-assignments/pa1/README.md)
 * L10.2: [Exercises on resolution](https://hackmd.io/_diSUOBHTvyv-nycCmkg0Q?view)
+* L11.1: [Divide-and-conquer and solving recurrences](https://hackmd.io/qU-4serXQACore8SXzCTNA?view)
 
 
 
