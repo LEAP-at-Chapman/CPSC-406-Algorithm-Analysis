@@ -8,7 +8,7 @@ Models of computation, algorithm complexity, probabilistic algorithms
 - Class: CPSC 406 Algorithm Analysis 
 - Instructor: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), [jweinberger@chapman.edu](mailto:jweinberger@chapman.edu)
 - Lectures: TuTh 1:00 PM -- 2:15 PM  KC 153, 4:00 PM -- 5:15 PM BH 105
-- Office Hours: Tu 2:20 PM -- 3:50 Swenson N305, Th 2:20 PM -- 3:50 Swenson N205
+- Office Hours: Tu 2:20 PM -- 3:50, Th 2:20 PM -- 3:50 Swenson 3rd floor
 
 
 ## Quick links
@@ -59,6 +59,11 @@ The outline is as follows (subject to change):
 * L8.1: [Landau notation aka "Big O"](https://hackmd.io/@jweinberger/S1VIkpR0kg)
 * L8.2: **Midterm**
 * L9.1: [Complexity classes](https://hackmd.io/I_1oRjNvQsOg_ycNI137fA) ([PDF](cc.pdf)), [Problems on logic and SAT](https://hackmd.io/hYC1W48OTm-oyndzt5RQEg?view)
+* L9.2: [Resolution](Resolution.pdf)
+* L10.1: [Programming Assignment 1 (Horn resolution)](programming-assignments/pa1/README.md)
+* L10.2: [Exercises on resolution](https://hackmd.io/_diSUOBHTvyv-nycCmkg0Q?view)
+* L11.1: [Divide-and-conquer and solving recurrences](https://hackmd.io/qU-4serXQACore8SXzCTNA?view)
+* L11.2: [Recurrence trees](https://hackmd.io/Y11yotU7SXCyh8YerFytUQ?view)
 
 
 
