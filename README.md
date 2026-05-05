@@ -65,6 +65,8 @@ The outline is as follows (subject to change):
 * L11.1: [Divide-and-conquer and solving recurrences](https://hackmd.io/qU-4serXQACore8SXzCTNA?view)
 * L11.2: [Recurrence trees](https://hackmd.io/Y11yotU7SXCyh8YerFytUQ?view)
 * L12.1: [Master theorem](https://hackmd.io/xbY23H7GTWSvDAx6uT5ZaA?view)
+* L12.2: Master theorem review and HW lab.
+* L13.1: [Basics of probability theory](https://hackmd.io/@jweinberger/HyC4c2PC-g), [Probabilistic analysis of algorithms (Hiring problem)](https://hackmd.io/@jweinberger/rk0d7aPRbg)
 
 
 
