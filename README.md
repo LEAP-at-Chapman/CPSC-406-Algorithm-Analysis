@@ -10,6 +10,7 @@ Models of computation, algorithm complexity, probabilistic algorithms
 - Lectures: TuTh 1:00 PM -- 2:15 PM  KC 153, 4:00 PM -- 5:15 PM BH 105
 - Office Hours: Tu 2:20 PM -- 3:50, Th 2:20 PM -- 3:50 Swenson 3rd floor
 
+[**Final exam study guide**](./final-study-guide.pdf)
 
 ## Quick links
 
@@ -67,6 +68,7 @@ The outline is as follows (subject to change):
 * L12.1: [Master theorem](https://hackmd.io/xbY23H7GTWSvDAx6uT5ZaA?view)
 * L12.2: Master theorem review and HW lab.
 * L13.1: [Basics of probability theory](https://hackmd.io/@jweinberger/HyC4c2PC-g), [Probabilistic analysis of algorithms (Hiring problem)](https://hackmd.io/@jweinberger/rk0d7aPRbg)
+* L14.1: Probabilistic algorithms and analysis ([Exercise](https://hackmd.io/@jweinberger/rkkLmW-kzx)).
 
 
 
