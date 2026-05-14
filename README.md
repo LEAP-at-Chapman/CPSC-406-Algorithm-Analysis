@@ -12,6 +12,10 @@ Models of computation, algorithm complexity, probabilistic algorithms
 
 [**Final exam study guide**](./final-study-guide.pdf)
 
+**Quizzes**
+* Quiz 1: [Section 1](quiz/q1-s1.pdf), [Section 2](quiz/q1-s2.pdf), [Section 1 solutions](quiz/q1-s1-sol.pdf), [Section 2 solutions](quiz/q1-s2-sol.pdf)
+* Quiz 2: [Section 1](quiz/q2-s1.pdf), [Section 2](quiz/q2-s2.pdf), [Section 1 solutions](quiz/q2-s1-sol.pdf), [Section 2 solutions](quiz/q2-s2-sol.pdf)
+
 ## Quick links
 
 * [Syllabus](syllabus-long.md)
