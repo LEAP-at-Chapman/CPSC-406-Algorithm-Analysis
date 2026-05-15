@@ -10,7 +10,15 @@ Models of computation, algorithm complexity, probabilistic algorithms
 - Lectures: TuTh 1:00 PM -- 2:15 PM  KC 153, 4:00 PM -- 5:15 PM BH 105
 - Office Hours: Tu 2:20 PM -- 3:50, Th 2:20 PM -- 3:50 Swenson 3rd floor
 
-[**Final exam study guide**](./final-study-guide.pdf)
+**Final exam**
+* Section 1 (1 PM): Wednesday, May 20, 1:30 - 4:00 PM, KC 153
+* Section 2 (4 PM): Tuesday, May 19, 4:15 - 6:45 PM, BH 105
+
+Resources:
+
+* [**Final exam study guide**](./final-study-guide.pdf)
+* [**Mock exam**](./mock-final.pdf), [**solutions**](./mock-final-sol.pdf)
+
 
 **Quizzes**
 * Quiz 1: [Section 1](quiz/q1-s1.pdf), [Section 2](quiz/q1-s2.pdf), [Section 1 solutions](quiz/q1-s1-sol.pdf), [Section 2 solutions](quiz/q1-s2-sol.pdf)
