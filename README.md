@@ -45,8 +45,8 @@ The outline is as follows (subject to change):
 | Week  | Topic                                      |
 |-------|--------------------------------------------|
 | W1-7    | Part 1: Models of computation |
-| W8-11   | Part 2: Algorithm complexity  |
-| W12-14    |  Part 3: Probabilistic algorithms                 |
+| W8-12   | Part 2: Algorithm complexity  |
+| W13-14    |  Part 3: Probabilistic algorithms                 |
 
 
 ## Week by week
