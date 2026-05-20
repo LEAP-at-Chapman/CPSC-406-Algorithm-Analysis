@@ -50,7 +50,7 @@ To **test your setup** make sure of the following:
 
 ## Point Distribution
 
-Out of a total of 200 points the report is worth 90 points and divided approximately up as follows. 
+Out of a total of 200 points the report is worth 50 points and divided approximately up as follows. 
 
 - (3 points): Organization of the GitHub repo, report, layout, typesetting.
 - (4 points): Quality of writing, style, references.
